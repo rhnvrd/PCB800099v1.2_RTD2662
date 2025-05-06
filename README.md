@@ -1,4 +1,4 @@
-# **PCB800099v1.2_RTD2662 Programmer**  
+# **PCB800099 RTD2662 Firmware Updater**  
 
 ### **Description**  
 This repository contains tools and firmware for programming the **RTD2662** IC used in the **PCB800099 v1.2** (also known as **P08-2AV-1VGA-1HDMI-TTL-LVDS-AUDIO-AOC-V1.2**) board to support various LCDs.  
